@@ -24,7 +24,7 @@ github_username:  evfrenkel
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: mr_hyde
 gems:
   - jekyll-feed
 exclude:
