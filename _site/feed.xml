@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-10T10:35:40-08:00</updated><id>http://localhost:4000/</id><title type="html">Evan Frenkel</title><subtitle>The site of Evan Frenkel.
-</subtitle><entry><title type="html">Welcome to the site</title><link href="http://localhost:4000/boring/2016/11/10/welcome.html" rel="alternate" type="text/html" title="Welcome to the site" /><published>2016-11-10T10:30:13-08:00</published><updated>2016-11-10T10:30:13-08:00</updated><id>http://localhost:4000/boring/2016/11/10/welcome</id><content type="html" xml:base="http://localhost:4000/boring/2016/11/10/welcome.html">&lt;p&gt;This site may not be quite as good as &lt;a href=&quot;http://zombo.com&quot;&gt;Zombo&lt;/a&gt;, but it is certainly something.&lt;/p&gt;</content><summary type="html">This site may not be quite as good as Zombo, but it is certainly something.</summary></entry></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evan Frenkel</title>
+    <description>My site</description>
+    <link>http://evfrenkel.com/</link>
+    <atom:link href="http://evfrenkel.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Welcome to the site</title>
+        <description>&lt;p&gt;This site may not be quite as good as &lt;a href=&quot;http://zombo.com&quot;&gt;Zombo&lt;/a&gt;, but it is certainly something.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 10 Nov 2016 10:30:13 -0800</pubDate>
+        <link>http://evfrenkel.com/boring/2016/11/10/welcome/</link>
+        <guid isPermaLink="true">http://evfrenkel.com/boring/2016/11/10/welcome/</guid>
+      </item>
+    
+  </channel>
+</rss>
