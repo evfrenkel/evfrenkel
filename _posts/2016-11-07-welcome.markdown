@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Welcome to the site"
+date:   2016-11-10 10:30:13 -0800
+categories: boring
+---
+
+This site may not be quite as good as [Zombo][zombo], but it is certainly something.
+
+[zombo]:   http://zombo.com
