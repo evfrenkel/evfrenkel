@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to the site"
+title:  "Welcome to my site"
 date:   2016-11-10 10:30:13 -0800
 categories: boring
 ---
