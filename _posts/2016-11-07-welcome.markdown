@@ -7,4 +7,4 @@ categories: boring
 
 This site may not be quite as good as [Zombo][zombo], but it is certainly something.
 
-[zombo]:   http://zombo.com
+[zombo]:   https://html5zombo.com

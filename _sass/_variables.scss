@@ -1,16 +1,9 @@
 // Typography
-$base-font-size: 14px !default;
+$base-font-size: 16px !default;
 $bold-font-weight: bold !default;
 //$font-family: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
-$font-family: -apple-system,
-              BlinkMacSystemFont,
-              "Segoe UI",
-              Roboto,
-              Oxygen-Sans,
-              Ubuntu,
-              Cantarell,
-              "Helvetica Neue",
-              sans-serif !default;
+$font-family: 'Roboto', 'Source Sans Pro', 'Helvetica Neue', Helvetica, sans-serif !default;
+
 $line-height: 1.5 !default;
 //$heading-font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif !default;
 $heading-font-family: -apple-system,
@@ -22,12 +15,12 @@ $heading-font-family: -apple-system,
                       Cantarell,
                       "Helvetica Neue",
                       sans-serif !default;
-$heading-font-weight: 700 !default;
+$heading-font-weight: 500 !default;
 $heading-line-height: 1.25 !default;
 $monospace-font-family: 'Source Code Pro', Consolas, monospace !default;
-$h1: 2.5rem !default; // 2.998rem
+$h1: 2.2rem !default; // 2.998rem
 $h2: 1.9rem !default;
-$h3: 1.25rem !default;
+$h3: 1.6rem !default;
 $h4: 1rem !default;
 $h5: .875rem !default;
 $h6: .75rem !default;
@@ -42,12 +35,12 @@ $h1-responsive-max: 3.84rem !default;
 $abbr-border-bottom: 1px black dotted;
 
 // Page width
-$measure-width: 42rem !default;
+$measure-width: 36rem !default;
 
 // Viewport widths
-$viewport-small: 32em;
-$viewport-medium: 48em;
-$viewport-large: 64em;
+$viewport-small: 28em; //32
+$viewport-medium: 40em; //48
+$viewport-large: 64em; //64
 
 // Colors
 $blue: #0076df !default;
@@ -61,6 +54,7 @@ $green: #00ab37 !default;
 $dark-green: #009f06 !default;
 $light-pink: #ffdddd !default;
 $light-green: #ddffdd !default;
+$black: rgb(50,50,50) !default;
 $dark-gray: #333 !default;
 $mid-gray: #777 !default;
 $light-gray: #ccc !default;

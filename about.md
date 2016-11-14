@@ -5,6 +5,6 @@ permalink: /about/
 tags: about
 ---
 
-## Credits
+### Credits
 
 * Jekyll theme forked from [pixyll](http://pixyll.com) by  [John Otander](http://johnotander.com)

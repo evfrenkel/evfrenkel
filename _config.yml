@@ -24,7 +24,7 @@ show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 # extended_fonts: false
-download_fonts: false
+download_fonts: true
 enable_anchorjs: false
 
 # Facebook Page integration
@@ -50,7 +50,7 @@ twitter_username: evfrenkel
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: evanfrenkel
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -108,7 +108,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     1
+paginate:     4
 sass:
   compressed: true
 gems:
