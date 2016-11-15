@@ -24,7 +24,7 @@ show_social_icons:    false
 ajaxify_contact_form: false
 enable_mathjax: false
 # extended_fonts: false
-download_fonts: true
+download_fonts: false
 enable_anchorjs: false
 
 # Facebook Page integration

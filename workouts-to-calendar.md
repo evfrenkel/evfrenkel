@@ -13,6 +13,6 @@ Take workouts from the Health app and sync them to your calendar. After setup th
 
 # Privacy Policy
 
-### Health data
+#### Health data
 
 Workouts to Calendar takes "Workout" data from Health. It uses that data solely to create calendar events on a calendar account that is under the user's control. Workouts to Calendar does not collect or transmit the data in any other way.

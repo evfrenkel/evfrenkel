@@ -1,8 +1,14 @@
 // Typography
-$base-font-size: 16px !default;
+$base-font-size: 17px !default;
 $bold-font-weight: bold !default;
-//$font-family: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
-$font-family: 'Roboto', 'Source Sans Pro', 'Helvetica Neue', Helvetica, sans-serif !default;
+//$font-family: 'Merriweather', 'PT Serif', Georgia, serif !default;
+$font-family: 'Helvetica Neue', Helvetica,
+              "Segoe UI",
+              Roboto,
+              Oxygen-Sans,
+              Ubuntu,
+              Cantarell,
+              sans-serif !default;
 
 $line-height: 1.5 !default;
 //$heading-font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif !default;
@@ -15,10 +21,11 @@ $heading-font-family: -apple-system,
                       Cantarell,
                       "Helvetica Neue",
                       sans-serif !default;
-$heading-font-weight: 500 !default;
+$heading-font-weight: 400 !default;
+$heading-font-weight-small: 600 !default;
 $heading-line-height: 1.25 !default;
 $monospace-font-family: 'Source Code Pro', Consolas, monospace !default;
-$h1: 2.2rem !default; // 2.998rem
+$h1: 2.4rem !default; // 2.998rem
 $h2: 1.9rem !default;
 $h3: 1.6rem !default;
 $h4: 1rem !default;
@@ -39,7 +46,7 @@ $measure-width: 36rem !default;
 
 // Viewport widths
 $viewport-small: 28em; //32
-$viewport-medium: 40em; //48
+$viewport-medium: 36em; //48
 $viewport-large: 64em; //64
 
 // Colors
