@@ -7,7 +7,7 @@ tags: about
 
 <img src="{{site.github.url}}/assets/appicon.png" width="100px" />
 
-Take workouts from the Health app and sync them to your calendar. After setup this app will continuously add new workouts to the calendar in the background after they are completed. [View on the App Store.](http://itunes.apple.com/us/app/app/id1173606728)
+Take workouts from the Health app and sync them to your calendar. After setup this app will continuously add new workouts to the calendar in the background after they are completed. [View on GitHub.](https://github.com/evfrenkel/Workouts-to-Calendar)
 
 **![Screenshots]({{site.github.url}}/assets/screens.png)**
 
